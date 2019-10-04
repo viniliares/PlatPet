@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlatPet.Views.ContentPageLogin">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout  >
+
+                <Image Source="marca1.jpg" WidthRequest="150" HeightRequest="200" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand"/>
+
+                <Label Text="Email"  VerticalOptions="Fill" HorizontalOptions="Start" />
+                <Label Text="Senha" VerticalOptions="Fill" HorizontalOptions="Start" />
+                <Label Text=" Esqueceu a sua Senha?" TextColor="#A96134" HorizontalTextAlignment="Center" />
+
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
