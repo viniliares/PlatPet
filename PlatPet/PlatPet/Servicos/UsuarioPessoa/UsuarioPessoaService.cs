@@ -10,18 +10,18 @@ namespace PlatPet.Servicos.UsuarioPessoa
     public class UsuarioPessoaService : IUsuarioPessoaService
     {
         private readonly IRequest _request;
-        private const string ApiUrlBase = "http://universesoftware2019.somee.com/api/CadUsuarios?tpuser=2";
+        private const string ApiUrlBase = "http://universesoftware2019.somee.com/api/CadUsuarios";
 
         public UsuarioPessoaService()
         {
             _request = new Request();
         }
 
-        public async Task<UsuarioPesssoa> DeleteUsuarioPessoaAsync(int pessoaId)
+        public async Task<UsuarioPesssoa> DeleteUsuarioPessoaAsync(int usuarioId)
         {
-            string urlComplementar = string.Format("/{0}", pessoaId);
+            string urlComplementar = string.Format("/{0}", usuarioId);
             await _request.DeleteAsync(ApiUrlBase + urlComplementar);
-            return new UsuarioPesssoa() { IdPessoa = pessoaId };
+            return new UsuarioPesssoa() { IdUsuario = usuarioId };
         }
 
         public async Task<ObservableCollection<UsuarioPesssoa>> GetUsuarioPessoaAsync()
@@ -34,14 +34,18 @@ namespace PlatPet.Servicos.UsuarioPessoa
 
         public async Task<UsuarioPesssoa> PostUsuarioPessoaAsync(UsuarioPesssoa c)
         {
-            if (c.IdPessoa == 0)
+            if (c.IdUsuario == 0)
+            {
+                string urlComplementar = string.Format("/I/{0}", c.TipoUsuario);
                 return await _request.PostAsync(ApiUrlBase, c);
+            }
             else
                 return await _request.PutAsync(ApiUrlBase, c);
         }
 
         public async Task<UsuarioPesssoa> PutUsuarioPessoaAsync(UsuarioPesssoa c)
         {
+            string urlComplementar = string.Format("/U/{0}", c.IdUsuario);
             var result = await _request.PutAsync(ApiUrlBase, c);
             return result;
         }

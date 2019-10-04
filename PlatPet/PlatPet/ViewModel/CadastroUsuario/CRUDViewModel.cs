@@ -36,7 +36,7 @@ namespace PlatPet.ViewModel.CadastroUsuario
 
         public void Gravar()
         {
-            var ehNovo = (this.UsuarioPessoa.IdPessoa == null ? true : false);
+            var ehNovo = (this.UsuarioPessoa.IdUsuario == null ? true : false);
             DataStore.Update(this.UsuarioPessoa);
             
         }

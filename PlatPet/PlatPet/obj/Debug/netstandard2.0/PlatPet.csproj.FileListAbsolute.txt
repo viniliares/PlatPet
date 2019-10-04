@@ -70,3 +70,4 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstan
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csprojAssemblyReference.cache

@@ -336,4 +336,6 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll.mdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.dll.mdb
