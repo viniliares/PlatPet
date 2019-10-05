@@ -49,6 +49,9 @@ D:\Vinicius\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.deps.json
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\PlatPet.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\OficinaMVVM.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\bin\Debug\netstandard2.0\OficinaMVVM.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csprojAssemblyReference.cache
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\Views\Apresentacao\ContentPageViewApresentacaoA.xaml.g.cs
@@ -68,6 +71,6 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstan
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfoInputs.cache
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.AssemblyInfo.cs
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csproj.CopyComplete
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.pdb
-D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet\obj\Debug\netstandard2.0\PlatPet.csprojAssemblyReference.cache

@@ -2,6 +2,7 @@
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using OficinaMVVM.Views;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace PlatPet
@@ -17,7 +18,7 @@ namespace PlatPet
             //MainPage = new ContentPageViewAgendarConsulta();
 
             //MainPage = new ContentPageViewApresentacaoA();
-            MainPage = new ContentPageCadastroUsuarioView();
+            MainPage = new MasterDetailsPageView();
 
         }
 

@@ -24,7 +24,7 @@ namespace PlatPet.Views
 
         async void Consulta(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
+            await Navigation.PushAsync(new OficinaMVVM.Views.ContentPageCadastroUsuarioView());
         }
 
         async void Adestramento(object sender, EventArgs e)

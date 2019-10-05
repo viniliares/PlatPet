@@ -229,7 +229,9 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname.apk
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\com.companyname-Signed.apk
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\OficinaMVVM.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\OficinaMVVM.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.nuget.stamp
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\PlatPet.Android.csprojAssemblyReference.cache
@@ -310,6 +312,7 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\OficinaMVVM.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\Mono.Security.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\bin\Debug\PlatPet.dll.mdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.dll.mdb
@@ -318,6 +321,7 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Mono.Android.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Mono.Security.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\OficinaMVVM.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\PlatPet.Android.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Core.pdb

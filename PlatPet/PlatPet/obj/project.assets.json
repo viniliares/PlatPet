@@ -51,6 +51,20 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
+      },
+      "OficinaMVVM/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Xamarin.Forms": "2.5.0.122203"
+        },
+        "compile": {
+          "bin/placeholder/OficinaMVVM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OficinaMVVM.dll": {}
+        }
       }
     }
   },
@@ -372,12 +386,18 @@
         "xamarin.forms.3.4.0.1008975.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "OficinaMVVM/1.0.0": {
+      "type": "project",
+      "path": "../../../OficinaMVVM/OficinaMVVM.csproj",
+      "msbuildProject": "../../../OficinaMVVM/OficinaMVVM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 12.0.2",
+      "OficinaMVVM >= 1.0.0",
       "Xamarin.Forms >= 3.4.0.1008975"
     ]
   },
@@ -410,7 +430,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Vinicius\\GIT\\PlatPet\\PlatPet Mobile\\OficinaMVVM\\OficinaMVVM.csproj": {
+              "projectPath": "D:\\Vinicius\\GIT\\PlatPet\\PlatPet Mobile\\OficinaMVVM\\OficinaMVVM.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

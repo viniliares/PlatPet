@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatPet.Android", "PlatPet\PlatPet.Android\PlatPet.Android.csproj", "{F490840B-59E7-4D3E-9FAB-08EA819D2749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatPet", "PlatPet\PlatPet\PlatPet.csproj", "{8BAE1541-8558-46A7-A888-F25ABC5D2571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlatPet", "PlatPet\PlatPet\PlatPet.csproj", "{8BAE1541-8558-46A7-A888-F25ABC5D2571}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OficinaMVVM", "..\OficinaMVVM\OficinaMVVM.csproj", "{0D2707A6-AA8E-45A3-BA15-E2F8E273146B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{8BAE1541-8558-46A7-A888-F25ABC5D2571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BAE1541-8558-46A7-A888-F25ABC5D2571}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8BAE1541-8558-46A7-A888-F25ABC5D2571}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D2707A6-AA8E-45A3-BA15-E2F8E273146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2707A6-AA8E-45A3-BA15-E2F8E273146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2707A6-AA8E-45A3-BA15-E2F8E273146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2707A6-AA8E-45A3-BA15-E2F8E273146B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

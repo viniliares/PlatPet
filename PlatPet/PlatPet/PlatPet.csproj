@@ -15,6 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\OficinaMVVM\OficinaMVVM.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Views\MasterDetailsPageViewMenuItem.cs">
       <SubType>Code</SubType>
     </Compile>

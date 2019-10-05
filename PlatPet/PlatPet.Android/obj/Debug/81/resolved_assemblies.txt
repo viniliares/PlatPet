@@ -43,4 +43,9 @@ D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Web.Services.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\OficinaMVVM.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Runtime.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.ComponentModel.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Xml.ReaderWriter.dll
+D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\System.Reflection.dll
 D:\Vinicius\GIT\PlatPet\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Mono.Security.dll

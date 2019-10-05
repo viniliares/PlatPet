@@ -7,12 +7,14 @@ using System.Windows.Input;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 using System.Threading.Tasks;
+using PlatPet.Servicos.UsuarioPessoa;
 
 namespace PlatPet.ViewModel.CadastroUsuario
 {
     public class CRUDViewModel : BaseViewModel
     {
-        private IDataStore<UsuarioPesssoa> DataStore = new ServicoDataStore();
+        //private IDataStore<UsuarioPesssoa> DataStore = new ServicoDataStore();
+        private IUsuarioPessoaService cService = new UsuarioPessoaService();
         private UsuarioPesssoa UsuarioPessoa { get; set; }
         public ICommand GravarCommand { get; set; }
 
@@ -37,7 +39,7 @@ namespace PlatPet.ViewModel.CadastroUsuario
         public void Gravar()
         {
             var ehNovo = (this.UsuarioPessoa.IdUsuario == null ? true : false);
-            DataStore.Update(this.UsuarioPessoa);
+            //DataStore.Update(this.UsuarioPessoa);
             
         }
 

@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using PlatPet.ViewModel.CadastroUsuario;
 using PlatPet.Models;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Collections.ObjectModel;
